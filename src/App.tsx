@@ -68,18 +68,11 @@ function App() {
 
       <footer className="footer">
         <p>
-          Built with{' '}
-          <a href="https://react.dev" target="_blank" rel="noopener noreferrer">
-            React
-          </a>{' '}
-          +{' '}
-          <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer">
-            TypeScript
-          </a>{' '}
-          +{' '}
-          <a href="https://vite.dev" target="_blank" rel="noopener noreferrer">
-            Vite
+          Developed by{' '}
+          <a href="https://github.com/wayneleon1" target="_blank" rel="noopener noreferrer">
+            Wayne Leon
           </a>
+          .
         </p>
       </footer>
     </div>
